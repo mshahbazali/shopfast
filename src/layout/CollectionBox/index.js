@@ -1,5 +1,6 @@
 import React from 'react'
 import CollectionBoxOne from '../../components/CollectionBoxOne'
+import CollectionBoxTwo from '../../components/CollectionBoxTwo'
 export default function index() {
     return (
         <>
@@ -8,7 +9,7 @@ export default function index() {
                     <CollectionBoxOne />
                 </div>
                 <div className="col-lg-6 col-md-12 col-sm-12 mb-4">
-                    <CollectionBoxOne />
+                    <CollectionBoxTwo />
                 </div>
             </div>
         </>

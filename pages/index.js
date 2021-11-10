@@ -3,6 +3,7 @@ import Navigation from '../src/layout/Navigation'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'antd/dist/antd.css';
 import 'react-multi-carousel/lib/styles.css';
+import "animate.css/animate.min.css";
 
 import Home from '../src/pages/Home'
 export default function index() {
